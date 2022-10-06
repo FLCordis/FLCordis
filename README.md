@@ -1,7 +1,8 @@
 ## Welcome Stranger!
 
 - 🔭 Fazendo estágio em TI com Infraestrutura de Redes, HelpDesk e um pouco de programação.
-- 🌱 Estudando Linux, Front-end e Back-end, um pouco de BD e DevOps.
+- 🌱 Estudante Dev - Ciência da Computação.
+- 📑 : https://www.linkedin.com/in/flaviompcordis/
 - 📫 : flavio.cordis@hotmail.com
 
 <div align="center">
