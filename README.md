@@ -1,6 +1,6 @@
 ## Welcome Stranger!
 
-- 🔭 Fazendo estágio em TI com Infraestrutura de Redes, HelpDesk e um pouco de programação.
+- 🔭 FullStack Developer - Followize 💜💚
 - 🌱 Estudante Dev - Ciência da Computação.
 - 📑 : https://www.linkedin.com/in/flaviompcordis/
 - 📫 : flavio.cordis@hotmail.com
