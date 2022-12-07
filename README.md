@@ -27,21 +27,22 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 
-### DevOps
+### DevOps:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Others
+### Others:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  	
 
+<br>
 <div align="center">
   <a href="https://github.com/FLCordis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FLCordis&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLCordis&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
-  <em>"The purpose of Software Engineering is to control complexity, not create it." -Pamela Zave</em>
+ <br><br><em>"The purpose of Software Engineering is to control complexity, not create it." -Pamela Zave</em>
 
 ---
