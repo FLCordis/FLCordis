@@ -1,5 +1,5 @@
 # 🖐 G'day Stranger:
-<br>- 🔭 FullStack Internt Developer - Followize 💜💚
+- 🔭 FullStack Internt Developer - Followize 💜💚
 <br>- 🌱 Working on my Computer Science Degree.
 <br>- 📫 : flavio.cordis@hotmail.com
 
