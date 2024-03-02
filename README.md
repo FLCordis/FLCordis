@@ -1,6 +1,6 @@
 # 🖐 Hello, Stranger!
-- 🔭 FullStack Intern Developer - Followize 💜💚
-- 🌱 Working on my Computer Science Degree.
+- 🔭 Junior Developer - Searching to become DevOps Engineer or Software.
+- 🌱 Computer Science BSc.
 - 📫 : flavio.cordis@hotmail.com
 
 
