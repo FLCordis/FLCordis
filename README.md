@@ -11,7 +11,7 @@
 ## 💻 Tech Stack (Stuff that i used/study):
 
 ### Main Tech:
-[![N8N](https://img.shields.io/badge/n8n-red?style=flat&logo=n8n&logoColor=white)
+[![N8N](https://img.shields.io/badge/n8n-red?style=flat&logo=n8n&logoColor=white)](#)
 
 ### Front-end:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
